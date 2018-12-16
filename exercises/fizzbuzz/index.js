@@ -12,6 +12,9 @@
 //   4
 //   buzz
 
+//---------------------------------------My code below:
+//only one solution recommended, keep it simple, clean, legible.
+
 function fizzBuzz(n) {
     for(x = 1; x <= n; x++){
         if(x % 5 === 0 && x % 3 === 0) {
