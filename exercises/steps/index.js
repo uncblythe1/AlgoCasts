@@ -38,8 +38,13 @@ function steps(n) {
 }
 
 //solution 2 using RECURSION
-function steps(n) {
-    
-}
+//recursion always identifies a base case-
+// function steps(n, row = 0) {
+//     if(row === n){
+//         return;
+//     }
+
+//     steps(n)
+// }
 
 module.exports = steps;
